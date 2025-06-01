@@ -42,10 +42,10 @@ const swiperParams: SwiperOptions = {
 
 interface CardProps {
   id: number;
-  img: any;
+  img: string;
 }
 
-const Card = ({ img, id }: CardProps) => {
+const Card = ({ img }: CardProps) => {
   return (
     <div className="relative h-[400px] lg:h-[500px] w-full">
       <Image

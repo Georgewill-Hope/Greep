@@ -1,11 +1,4 @@
-import { BsArrowLeft } from "react-icons/bs";
-import {
-  FaCircleArrowDown,
-  FaCircleArrowLeft,
-  FaCircleArrowRight,
-} from "react-icons/fa6";
 import Slide from "./Slide";
-import { slideItems } from "@/data";
 
 
 const Gallery = () => {

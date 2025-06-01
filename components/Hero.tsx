@@ -16,7 +16,6 @@ const Hero = () => {
           className="object-cover object-center lg:object-bottom lg:rounded-xl"
           priority
         />
-        
       </div>
       <div className="flex-1/2 flex flex-col lg:-ml-6 z-20 lg:pr-10 px-2 py-10 lg:py-0">
         <p className="xl:text-xl self-start lg:self-center text-orange-400  mb-12 font-semibold">
@@ -27,7 +26,7 @@ const Hero = () => {
           <br className="hidden lg:flex" /> to see
         </h1>
         <p className="xl:text-lg self-center lg:self-end text-foreground tracking-wider text-center lg:text-start">
-          From inspiring people's story to impactful{" "}
+          From inspiring people&apos;s story to impactful{" "}
           <br className="hidden md:flex" /> messages. I create head-turning
           photograph <br className="hidden md:flex" /> that does the right thing
           in the right place, <br className="hidden md:flex" /> at the right

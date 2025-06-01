@@ -19,11 +19,11 @@ const Exhibition = () => {
       <p className="text-foreground mt-10 lg:mt-14 lg:text-lg self-center text-center md:text-start px-2 md:px-0">
         Allegories of the Visisble extends the conceptual, theoritical, and
         critical
-        <br className="hidden md:flex"/>
-        orientaions of "Currency" through a constellation of ideas on the
-        mediatory
-        <br className="hidden md:flex"/>
-        status of the image and it's strategic possibilities for knowledge
+        <br className="hidden md:flex" />
+        orientaions of &quot;Currency&quot; through a constellation of ideas on
+        the mediatory
+        <br className="hidden md:flex" />
+        status of the image and it&apos;s strategic possibilities for knowledge
       </p>
       <div className="min-h-[80vh] lg:min-h-[100vh] grid grid-cols-3 gap-1 md:gap-2 lg:gap-5 lg:px-5 mt-10 lg:mt-20">
         <div className="relative h-full w-full row-span-2  col-span-2 md:col-span-1">
